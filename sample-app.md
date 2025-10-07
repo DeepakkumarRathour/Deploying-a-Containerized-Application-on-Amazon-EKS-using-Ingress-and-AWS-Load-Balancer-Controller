@@ -67,6 +67,7 @@ spec:
 
 ## Deploy the service
 
+
 ```
 kubectl apply -f service.yaml
 ```
